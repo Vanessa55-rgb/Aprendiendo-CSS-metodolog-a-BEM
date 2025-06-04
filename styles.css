@@ -1,0 +1,30 @@
+/* Estilos */
+
+.navbar{
+    background-color: gray;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar--secondary{
+    background-color: bisque;
+}
+
+.navbar_link{
+    background-color: black;
+    padding: 1rem;
+    color:white;
+    text-decoration:none ;
+    margin: 0 1rem;
+}
+
+/* Modificador */
+
+.link--select{
+    border-radius: 10px;
+    color: black;
+    background-color: transparent;
+    border: black solid 2px;
+}
